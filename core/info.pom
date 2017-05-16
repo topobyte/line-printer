@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <name>Line Printer Core</name>
+  <description>A library for line-oriented output (core module)</description>
+  <url>https://github.com/topobyte/line-printer</url>
+</project>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <name>Line Printer SLF4J</name>
+  <description>A library for line-oriented output (SLF4J bindings)</description>
+  <url>https://github.com/topobyte/line-printer</url>
+</project>
