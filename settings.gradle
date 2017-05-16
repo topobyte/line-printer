@@ -1,0 +1,3 @@
+include 'core', 'slf4j'
+project(':core').name = 'line-printer-core'
+project(':slf4j').name = 'line-printer-slf4j'
