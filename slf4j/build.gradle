@@ -5,6 +5,8 @@ if (project.hasProperty("topobyte")) {
 
 dependencies {
     compile project(':line-printer-core')
+
+    compile 'org.slf4j:slf4j-api:1.6.1'
 }
 
 def pomInfo = new XmlSlurper().parse(new File(projectDir, 'info.pom'));
